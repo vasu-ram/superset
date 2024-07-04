@@ -44,6 +44,8 @@ Join our growing community!
 - [Taveo](https://www.taveo.com) [@codek]
 - [Wise](https://wise.com) [@koszti]
 - [Xendit](http://xendit.co/) [@LieAlbertTriAdrian]
+- [bumper](https://www.bumper.co/) [@vasuram]
+- [bumper](https://www.bumper.co/) [@jamiepercival]
 
 ### Gaming
 - [Digit Game Studios](https://www.digitgaming.com/)
